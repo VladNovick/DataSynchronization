@@ -1,8 +1,0 @@
-D:\DataSynchronization\DataSync.Sheduler\bin\Debug\Com.SGcombo.DataSynchronization.Sheduler.exe.config
-D:\DataSynchronization\DataSync.Sheduler\bin\Debug\Com.SGcombo.DataSynchronization.Sheduler.exe
-D:\DataSynchronization\DataSync.Sheduler\bin\Debug\Com.SGcombo.DataSynchronization.Sheduler.pdb
-D:\DataSynchronization\DataSync.Sheduler\bin\Debug\Com.SGcombo.DataSynchronization.Utils.dll
-D:\DataSynchronization\DataSync.Sheduler\bin\Debug\Com.SGcombo.DataSynchronization.Utils.pdb
-D:\DataSynchronization\DataSync.Sheduler\obj\Debug\DataSync.Scheduler.csprojResolveAssemblyReference.cache
-D:\DataSynchronization\DataSync.Sheduler\obj\Debug\Com.SGcombo.DataSynchronization.Sheduler.exe
-D:\DataSynchronization\DataSync.Sheduler\obj\Debug\Com.SGcombo.DataSynchronization.Sheduler.pdb

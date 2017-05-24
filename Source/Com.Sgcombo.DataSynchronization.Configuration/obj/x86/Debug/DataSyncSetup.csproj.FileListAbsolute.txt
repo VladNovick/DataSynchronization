@@ -1,2 +1,0 @@
-D:\DataSynchronization\Com.Sgcombo.DataSynchronization.Configuration\obj\x86\Debug\FolderSync.exe
-D:\DataSynchronization\Com.Sgcombo.DataSynchronization.Configuration\obj\x86\Debug\FolderSync.pdb

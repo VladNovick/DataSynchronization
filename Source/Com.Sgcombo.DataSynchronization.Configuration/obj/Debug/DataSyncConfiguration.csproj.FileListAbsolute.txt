@@ -1,2 +1,0 @@
-D:\DataSynchronization\Com.Sgcombo.DataSynchronization.Configuration\bin\Debug\Com.SGcombo.DataSynchronization.Configuration.exe.config
-D:\DataSynchronization\Debug\Com.SGcombo.DataSynchronization.Configuration.exe.config
