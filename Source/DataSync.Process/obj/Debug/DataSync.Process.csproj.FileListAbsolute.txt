@@ -1,0 +1,7 @@
+D:\DataSynchronization\DataSync.Process\bin\Debug\DataSync.Process.dll
+D:\DataSynchronization\DataSync.Process\bin\Debug\DataSync.Process.pdb
+D:\DataSynchronization\DataSync.Process\obj\Debug\DataSync.Process.dll
+D:\DataSynchronization\DataSync.Process\obj\Debug\DataSync.Process.pdb
+D:\DataSynchronization\DataSync.Process\obj\Debug\DataSync.Process.csprojResolveAssemblyReference.cache
+D:\DataSynchronization\DataSync.Process\bin\Debug\FolderSync.Library.dll
+D:\DataSynchronization\DataSync.Process\bin\Debug\FolderSync.Library.pdb

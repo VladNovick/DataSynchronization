@@ -1,0 +1,5 @@
+D:\D_TMP\FileSync\CodeProject_FolderSync\FolderSync.Library\bin\Debug\FolderSync.Library.dll
+D:\D_TMP\FileSync\CodeProject_FolderSync\FolderSync.Library\bin\Debug\FolderSync.Library.pdb
+D:\D_TMP\FileSync\CodeProject_FolderSync\FolderSync.Library\obj\Debug\FolderSync.Library.csprojResolveAssemblyReference.cache
+D:\D_TMP\FileSync\CodeProject_FolderSync\FolderSync.Library\obj\Debug\FolderSync.Library.dll
+D:\D_TMP\FileSync\CodeProject_FolderSync\FolderSync.Library\obj\Debug\FolderSync.Library.pdb

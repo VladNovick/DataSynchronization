@@ -1,0 +1,5 @@
+D:\DataSynchronization\Release\Com.SGcombo.DataSynchronization.Utils.dll
+D:\DataSynchronization\Release\Com.SGcombo.DataSynchronization.Utils.pdb
+D:\DataSynchronization\Com.Sgcombo.DataSynchronization.Utils\obj\Debug\DataSync.Utils.csprojResolveAssemblyReference.cache
+D:\DataSynchronization\Com.Sgcombo.DataSynchronization.Utils\obj\Debug\Com.SGcombo.DataSynchronization.Utils.dll
+D:\DataSynchronization\Com.Sgcombo.DataSynchronization.Utils\obj\Debug\Com.SGcombo.DataSynchronization.Utils.pdb
