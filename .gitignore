@@ -9,3 +9,11 @@ Source[Bb]in/
 Source/[Oo]bj/
 Source/[Ll]og/
 Source/[Ll]ogs/
+Source/DataSync.Sheduler/obj/
+Source/DataSync.Sheduler/bin/
+Source/DataSync.Process/obj/
+Source/DataSync.Process/bin/
+Source/Com.Sgcombo.DataSynchronization.Utils/obj/
+Source/Com.Sgcombo.DataSynchronization.Utils/bin/
+Source/Com.Sgcombo.DataSynchronization.Configuration/obj/
+Source/Com.Sgcombo.DataSynchronization.Configuration/bin/
